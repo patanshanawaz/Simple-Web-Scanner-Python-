@@ -1,0 +1,13 @@
+# 🕷 Simple Web Scanner (Python)
+
+A basic Python script that scans a website for:
+
+- HTTP status
+- Security headers
+- Link discovery
+
+## 🚀 How to Use
+
+```bash
+pip install -r requirements.txt
+python web_scanner.py
